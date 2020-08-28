@@ -211,7 +211,6 @@ describe('parse', () => {
             });
         });
 
-
         test('attribute with no value', () => {
             const ast = baseParse('<div id></div>');
             const element = ast.children[0] as ElementNode;
