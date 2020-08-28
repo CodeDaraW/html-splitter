@@ -10,7 +10,7 @@
     "^.+\\.tsx?$": "ts-jest"
   },
   "testEnvironment": "node",
-  "testRegex": "test\\/.+\\.spec\\.ts",
+  "testRegex": "test\\/.+\\.spec\\.ts$",
   "moduleFileExtensions": ["ts", "tsx", "js", "jsx", "json", "node"],
   "coverageReporters": [
     "json", "json-summary", "lcov", "text", "clover"
