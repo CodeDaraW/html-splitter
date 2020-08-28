@@ -1,5 +1,5 @@
 {
-  "name": "html-splitter",
+  "name": "@html-splitter/html-splitter",
   "version": "1.0.0",
   "description": "HTML Splitter",
   "main": "lib/index.js",

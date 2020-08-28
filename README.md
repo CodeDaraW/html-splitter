@@ -4,7 +4,7 @@
 
 ## 安装
 ``` sh
-npm install html-splitter
+npm install @html-splitter/html-splitter
 ```
 
 ## 使用
