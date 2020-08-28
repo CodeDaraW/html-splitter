@@ -1,4 +1,9 @@
 # HTML Splitter
+[![Build Status](https://travis-ci.org/CodeDaraW/html-splitter.svg?branch=master)](https://travis-ci.org/CodeDaraW/html-splitter)
+[![Codecov](https://img.shields.io/codecov/c/github/CodeDaraW/html-splitter)](https://codecov.io/gh/CodeDaraW/html-splitter)
+[![npm](https://img.shields.io/npm/v/@html-splitter/html-splitter)](https://www.npmjs.com/package/@html-splitter/html-splitter)
+[![MIT](https://img.shields.io/npm/l/@html-splitter/html-splitter)](https://github.com/CodeDaraW/html-splitter/blob/master/LICENSE)
+
 在一些场景（例如博客文章缩略内容展示）下，我们需要对一段 HTML 代码进行分片。
 但是简单的字符串裁剪后的 HTML 显然不会是合法的 HTML 代码，所以 HTML Splitter 的目标就是为了解决这个问题。
 
